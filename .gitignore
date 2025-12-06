@@ -1,0 +1,35 @@
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ⛔ Environment folders
+myenv/
+venv/
+env/
+.venv/
+ENV/
+
+# 🔐 Secrets
+.env
+*.key
+*.pem
+*.token
+
+# 🧠 Cache & Logs
+*.log
+.cache/
+.ipynb_checkpoints/
+
+# 🚀 VS Code
+.vscode/
+
+# 🗃 Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# ⚙ Other
+.DS_Store
+Thumbs.db
